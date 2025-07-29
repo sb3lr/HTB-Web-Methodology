@@ -87,6 +87,7 @@ etc...
 - Command Injection:
 ```
 127.0.0.1;id
+"username":"sb3lr; id;"
 ```
 
 - LFI:
